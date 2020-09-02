@@ -1,3 +1,7 @@
+<a href="https://scan.coverity.com/projects/automeas-osmo-combo">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/21700/badge.svg"/>
+</a>
 # osmo-combo
 
 A "make world" build system for OpenBSC and related executables in an easy and automated way. One of the goals was to build all binaries statically with no external Osmocom dependancies.
